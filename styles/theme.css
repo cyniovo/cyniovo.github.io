@@ -1,0 +1,44 @@
+/* theme.css — 复用原 法治生活手册.html 的红金主色与变量 */
+:root {
+  --red-deep: #8E1626;
+  --red-main: #C8102E;
+  --red-soft: #F7E7E4;
+
+  --gold: #B8862D;
+  --gold-bright: #E3B458;
+  --gold-soft: #F5EBD8;
+
+  --blue: #1F5FA8;
+  --blue-soft: #E7EFF7;
+
+  --ink: #2B2620;
+  --muted: #756753;
+
+  --surface: #FBF7F1;
+  --cream: #FDF9F3;
+  --hairline: #E4DACB;
+  --white: #FFFFFF;
+
+  --green: #2D8659;
+  --green-soft: #E8F5EE;
+  --orange: #D97706;
+  --orange-soft: #FFF7E6;
+  --purple: #7B2D8E;
+  --purple-soft: #F3E8F7;
+  --teal: #0D7377;
+  --teal-soft: #E0F2F1;
+
+  --radius: 14px;
+  --radius-sm: 10px;
+  --radius-lg: 20px;
+  --shadow: 0 2px 12px rgba(46, 38, 32, .08);
+  --shadow-lg: 0 8px 28px rgba(46, 38, 32, .12);
+
+  /* App 尺寸 */
+  --tabbar-h: 60px;
+  --appbar-h: 52px;
+  --max-w: 720px;
+
+  /* 字体 */
+  --font-base: "PingFang SC", "Microsoft YaHei", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
